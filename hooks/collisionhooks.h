@@ -2,7 +2,7 @@
 #define _INCLUDE_CCOLLISIONHOOKS_H_
 
 #include "vphysics_interface.h"
-#include "detours.h"
+#include <CDetour/detours.h>
 
 class CShouldCollideHook
 {
